@@ -2,7 +2,7 @@
 layout: timeline
 title: Η εξέλιξη του safari
 image_url: /images/safari.png
-caption: 'Μέχρι και το 1997, οι υπολογιστές Macintosh της Apple χρησιμοποιούσαν τα προγράμματα περιήγησης Netscape Navigator και yberdog. 
+caption: 'Μέχρι και το 1997, οι υπολογιστές Macintosh της Apple χρησιμοποιούσαν τα προγράμματα περιήγησης Netscape Navigator και Cyberdog. 
 Αργότερα αντικαταστάθηκε από τον Internet Explorer της Microsoft για Mac εντός του Mac OS 8.1 στο πλαίσιο της πενταετούς συμφωνίας μεταξύ της Apple και της Microsoft.
 Πριν από το όνομα Safari, συντάχθηκαν μερικά άλλα, συμπεριλαμβανομένου του τίτλου «Freedom». Για περισσότερο από ένα χρόνο, αναφερόταν με την ονομασία «Alexander»,
 που σημαίνει συμβολοσειρές σε μορφές κωδικοποίησης.
