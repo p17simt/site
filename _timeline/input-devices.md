@@ -21,5 +21,7 @@ events:
   - media-scrub
   - kinect
   - leap-motion
+  - 3d-touch
+  - multitouch
 ---
 
