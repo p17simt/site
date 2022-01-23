@@ -12,7 +12,7 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "pibook"
+name                     : "Pibook"
 description              : "Programming Interactivity Greek Book."
 url                      : "https://elegant-goldstine-b4ac31.netlify.app/"
 baseurl                  : ""
