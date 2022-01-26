@@ -15,3 +15,6 @@
 [submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/p17simt/extras.git
+[submodule "bibliography"]
+	path = bibliography
+	url = https://github.com/p17simt/bibliography.git
