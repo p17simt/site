@@ -6,10 +6,6 @@
 	path = _notes
 	url = https://github.com/pibook/notes.git
 	branch = master
-[submodule "_bibliography"]
-	path = _bibliography
-	url = https://github.com/pibook/bibliography.git
-	branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p17simt/_gallery.git
